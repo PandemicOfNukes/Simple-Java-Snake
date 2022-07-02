@@ -13,3 +13,5 @@ Down Arrow: Goes Down
 Left Arrow: Goes Left
 
 Right Arrow: Goes Right
+
+Esc: Enter Difficult Mode
